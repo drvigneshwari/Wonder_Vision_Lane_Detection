@@ -29,9 +29,10 @@ Following are the Slack handles of the members
 |--- | ---| --- |
 |Astha Adhikari|@Astha Adhikari|https://github.com/adhikariastha5
 |Oudarjya Sen Sarma|@Oudarjya Sen Sarma|https://github.com/oudarjya718
+|Vigneshwari Ramakrishnan|@Vigneshwari|https://github.com/drvigneshwari
 |Mohammad Diab|@Mohammad Diab|https://github.com/depo-egy
 |Shiva Shankar|@shivu|https://github.com/shiv-u
-|Vigneshwari Ramakrishnan|@Vigneshwari|https://github.com/drvigneshwari
+
 
 
 ## This Google document is the for meetups follow up:
